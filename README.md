@@ -1,4 +1,4 @@
-# micro:bit for the M<ad Scientist
+# micro:bit for the Mad Scientist
 
 Code for my book "micro:bit for the Mad Scientist"
 
