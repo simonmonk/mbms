@@ -4,7 +4,19 @@ Code for my book "micro:bit for the Mad Scientist"
 
 Some of the programs in this book get pretty long and complex, and typing them in is not something that the Mad Scientist in you is likely to be keen to do. 
 
-All the Block code is published on the makecode website and shared by a short URL that will just open a copy of the Block code project in your browser. 
+All the Block code is published on the makecode website and shared by a short URL that will just open a copy of the Block code project in your browser. Here are the short URLs for the book's projects. Just click on them to oprn the project.
+
+[Experiment 1](https://makecode.microbit.org/_eerYohUaWVqp)
+
+There is no block code fpr Experiment 2
+
+[Experiment 3](https://makecode.microbit.org/_WzAc3vfXcKg1)
+
+[Project 1](https://makecode.microbit.org/_bo6T1f286Kos)
+
+[Project 2](https://makecode.microbit.org/_0drcfrM7kUE6)
+
+
 
 If you are an expert developer, used to using git, then you can clone the entire project into your computer. However, if you just want to get the code, you can download it as a ZIP file. To do this, click on the green Clone or download button and select Download ZIP.
 
