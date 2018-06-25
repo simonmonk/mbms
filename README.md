@@ -16,7 +16,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 4. Light Guitar](https://makecode.microbit.org/_HxdFekC57XkA)
 
-[Project 6. Magic Mirror](https://makecode.microbit.org/_ERbTiwTzY0zu)
+[Project 5. Magic Mirror](https://makecode.microbit.org/_ERbTiwTzY0zu)
 
 
 ## Experiments
