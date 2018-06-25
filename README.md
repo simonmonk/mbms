@@ -10,11 +10,19 @@ All the Block code is published on the makecode website and shared by a short UR
 
 There is no block code fpr Experiment 2
 
-[Experiment 3](https://makecode.microbit.org/_WzAc3vfXcKg1)
+[Experiment 3](https://makecode.microbit.org/_WzAc3vfXcKg1) 
 
-[Project 1](https://makecode.microbit.org/_bo6T1f286Kos)
+[Project 1. Musical Door Bell](https://makecode.microbit.org/_bo6T1f286Kos)
 
-[Project 2](https://makecode.microbit.org/_0drcfrM7kUE6)
+[Project 2. Shout-o-meter](https://makecode.microbit.org/_0drcfrM7kUE6)
+
+[Project 3](https://makecode.microbit.org/_K0EXLm9ph7gf)
+
+[Project 4](https://makecode.microbit.org/_Rkh1PLH3J99P)
+
+[Project 5](https://makecode.microbit.org/_eMRV9rcMM5Yh)
+
+[Project 6](https://makecode.microbit.org/_EMRfd0g798fe)
 
 
 
