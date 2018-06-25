@@ -1,11 +1,13 @@
-import machine, neopixel, random
+from microbit import *
+import neopixel, random
 
-leds = neopixel.NeoPixel(machine.Pin(0), 30)
+leds = neopixel.NeoPixel(pin0, 30)
 
 while True:
     led = random.randint(0, 29)
-    if random.randint(0, 3):
-        leds[0] = (127, 127, 0)
+    if random.randint(0, 3) == 0:
+        leds[led] = (127, 127, 0)
     else:
-        leds[0] = (0, 0, 0)
-    time.sleep(5)
+        leds[led] = (0, 0, 0)
+    leds.show()
+    sleep(5)
