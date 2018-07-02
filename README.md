@@ -18,16 +18,25 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 5. Magic Mirror](https://makecode.microbit.org/_ERbTiwTzY0zu)
 
+[Project 6. Compass](https://makecode.microbit.org/_YKE4j3io9Wxu)
+
+[Project 7. Magnetic Alarm](https://makecode.microbit.org/_Fab659PCW4VL)
+
+
+
+
 
 ## Experiments
 
-[Experiment 1](https://makecode.microbit.org/_eerYohUaWVqp)
+[Experiment 1. Generating Sounds](https://makecode.microbit.org/_eerYohUaWVqp)
 
 There is no block code for Experiment 2
 
-[Experiment 3](https://makecode.microbit.org/_WzAc3vfXcKg1) 
+[Experiment 3. Sensing Light](https://makecode.microbit.org/_WzAc3vfXcKg1) 
 
+[Experiment 4. Magnetic Fields](https://makecode.microbit.org/_hDq1oUCTaR7F) 
 
+[Link for Google Sheet spreadsheet for Experiment 4)(https://docs.google.com/spreadsheets/d/1qSybk116Zv5qyFtHL0l5jVkicrFcodrefVTEGUbmIYk/edit?usp=sharing)
 
 ## Cloning and Downloading 
 
