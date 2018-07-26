@@ -22,6 +22,11 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 7. Magnetic Alarm](https://makecode.microbit.org/_Fab659PCW4VL)
 
+[Project 8. Toothbrush Monitor](https://makecode.microbit.org/_Dh7VJw3Hz1Wx)
+
+[Project 9. Acceleration Display](https://makecode.microbit.org/_Vu8cdtPzpbrq)
+
+
 
 
 
@@ -37,6 +42,14 @@ There is no block code for Experiment 2
 [Experiment 4. Magnetic Fields](https://makecode.microbit.org/_hDq1oUCTaR7F) 
 
 [Link for Google Sheet spreadsheet for Experiment 4)(https://docs.google.com/spreadsheets/d/1qSybk116Zv5qyFtHL0l5jVkicrFcodrefVTEGUbmIYk/edit?usp=sharing)
+
+
+[Experiment 5. Gestures](https://makecode.microbit.org/_hX3Cx5AFm2X7)
+
+There is no block code for Experiments 6 and 7
+
+[Experiment 8. Servomotors](https://makecode.microbit.org/_RsRRuvUH89kL)
+
 
 ## Cloning and Downloading 
 
