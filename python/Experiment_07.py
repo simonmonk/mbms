@@ -21,8 +21,8 @@ while True:
             display.show(Image.NO)
             fs.close()
     if recording:
-        a = accelerometer.get_values()
-        net = sqrt(a[0]*a[0] + a[1]*a[1] + a[2]*a[2])
+        x, y, z = accelerometer.get_values()
+        net = sqrt(x*x + y*y + z*z)
         fs.write(str(net))
         fs.write('\n')
         sleep(10)
