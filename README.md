@@ -26,6 +26,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 9. Acceleration Display](https://makecode.microbit.org/_Vu8cdtPzpbrq)
 
+[Project 14. Lie Detector](https://makecode.microbit.org/_Evx91c7wP0ca)
 
 
 
@@ -49,6 +50,11 @@ There is no block code for Experiment 2
 There is no block code for Experiments 6 and 7
 
 [Experiment 8. Servomotors](https://makecode.microbit.org/_RsRRuvUH89kL)
+
+[Experiment 13. Radio Range](https://makecode.microbit.org/_ED6Rw8KL8hro)
+
+
+There is no block code for Experiment 9
 
 
 ## Cloning and Downloading 

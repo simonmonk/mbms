@@ -1,8 +1,9 @@
 from microbit import *
-import random
-import speech
+import random, speech, radio
 
 eye_angles = [50, 140, 60, 90, 140]
+
+radio.off()
 
 sentences = [
     "Hello my name is Mike",
@@ -50,7 +51,7 @@ def act():
     sleep(300)
     speak(random.choice(sentences))
     set_servo_angle(pin2, 90)
-    sleep(2000)
+    
     
 base_z = 0
 
@@ -59,6 +60,8 @@ while True:
     if abs(new_z - base_z) > 20:
         base_z = new_z
         act()
-    if random.randint(0, 1000) == 0:
+    if random.randint(0, 1000) == 0: # say something 1 time in 1000
         act()
-    sleep(50)
+        reset() # The speech lib crashes (memory leaks?)- make this much less likely
+    sleep(200)
+    

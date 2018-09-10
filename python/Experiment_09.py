@@ -1,6 +1,5 @@
 from microbit import *
 
-elapsed_seconds = 0
 seconds = 0
 last_time = 0
 
