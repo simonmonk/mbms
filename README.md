@@ -28,7 +28,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 14. Lie Detector](https://makecode.microbit.org/_Evx91c7wP0ca)
 
-[Project 16. Plant Waterer](https://makecode.microbit.org/_9i8doL0vYcDz)
+[Project 16. Plant Waterer](https://makecode.microbit.org/_60KXCY8FMDTR)
 
 
 

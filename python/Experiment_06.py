@@ -8,3 +8,8 @@ while True:
     print(all)
     sleep(100)
         
+        
+        
+        23 16.5 2
+        
+        
