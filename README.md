@@ -30,6 +30,11 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 16. Plant Waterer](https://makecode.microbit.org/_60KXCY8FMDTR)
 
+[Project 17. Wireless Doorbell](https://makecode.microbit.org/_h1AH7agkv2Fw)
+
+[Project 18. Rover](https://makecode.microbit.org/_FTPcwRg3CPjV)
+[Project 18. Rover Controller](https://makecode.microbit.org/_L69HYaPvU53t)
+
 
 
 ## Experiments
