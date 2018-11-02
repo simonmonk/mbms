@@ -8,10 +8,10 @@ angle = 90
 set_servo_angle(pin2, angle)
 
 while True:
-    if button_a.was_pressed() and angle > 0:
+    if button_a.was_pressed() and angle >= 10:
         angle -= 10
         set_servo_angle(pin2, angle)
-    if button_b.was_pressed() and angle < 180:
+    if button_b.was_pressed() and angle <= 170:
         angle += 10
         set_servo_angle(pin2, angle)
         

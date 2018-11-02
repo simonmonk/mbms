@@ -26,7 +26,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 9. Acceleration Display](https://makecode.microbit.org/_Vu8cdtPzpbrq)
 
-[Project 14. Lie Detector](https://makecode.microbit.org/_Evx91c7wP0ca)
+[Chapter 8. Lie Detector](https://makecode.microbit.org/_htdLYViYw2mb)
 
 [Project 16. Plant Waterer](https://makecode.microbit.org/_60KXCY8FMDTR)
 
@@ -45,7 +45,7 @@ There is no block code for Experiment 2
 
 [Experiment 3. Sensing Light](https://makecode.microbit.org/_WzAc3vfXcKg1) 
 
-[Experiment 4. Magnetic Fields](https://makecode.microbit.org/_hDq1oUCTaR7F) 
+[Experiment 4. Magnetic Fields](https://makecode.microbit.org/_5HhbF218K6j8) 
 
 [Link for Google Sheet spreadsheet for Experiment 4)(https://docs.google.com/spreadsheets/d/1qSybk116Zv5qyFtHL0l5jVkicrFcodrefVTEGUbmIYk/edit?usp=sharing)
 
