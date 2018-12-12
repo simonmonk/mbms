@@ -8,15 +8,22 @@ All the Block code is published on the makecode website and shared by a short UR
 
 ## Projects
 
-[Project 1. Musical Door Bell](https://makecode.microbit.org/_bo6T1f286Kos)
+### Chapter 2
+[Musical Door Bell](https://makecode.microbit.org/_bo6T1f286Kos)
 
-[Project 2. Shout-o-meter](https://makecode.microbit.org/_0drcfrM7kUE6)
+[Shout-o-meter](https://makecode.microbit.org/_0drcfrM7kUE6)
 
+
+
+### Chapter 3
 [Project 3. Night Light](https://makecode.microbit.org/_Tf4E9w3xb0sU)
 
 [Project 4. Light Guitar](https://makecode.microbit.org/_HxdFekC57XkA)
 
 [Project 5. Magic Mirror](https://makecode.microbit.org/_ERbTiwTzY0zu)
+
+
+### Chapter 4
 
 [Project 6. Compass](https://makecode.microbit.org/_YKE4j3io9Wxu)
 
@@ -24,11 +31,14 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Project 8. Toothbrush Monitor](https://makecode.microbit.org/_Dh7VJw3Hz1Wx)
 
+
+
+
 [Project 9. Acceleration Display](https://makecode.microbit.org/_Vu8cdtPzpbrq)
 
 [Chapter 8. Lie Detector](https://makecode.microbit.org/_htdLYViYw2mb)
 
-[Project 16. Plant Waterer](https://makecode.microbit.org/_60KXCY8FMDTR)
+[Chapter 9. Plant Waterer](https://makecode.microbit.org/_VrVemL7Kx2FP)
 
 [Project 17. Wireless Doorbell](https://makecode.microbit.org/_h1AH7agkv2Fw)
 
