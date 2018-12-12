@@ -27,7 +27,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 [Compass](https://makecode.microbit.org/_f4M1s1bK4gre)
 
-[Magnetic Alarm](https://makecode.microbit.org/_Fab659PCW4VL)
+[Magnetic Alarm](https://makecode.microbit.org/_P5DF8HMab6cA)
 
 
 ### Chapter 5
