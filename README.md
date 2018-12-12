@@ -25,7 +25,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 ### Chapter 4
 
-[Compass](https://makecode.microbit.org/_YKE4j3io9Wxu)
+[Compass](https://makecode.microbit.org/_f4M1s1bK4gre)
 
 [Magnetic Alarm](https://makecode.microbit.org/_Fab659PCW4VL)
 
@@ -60,27 +60,44 @@ All the Block code is published on the makecode website and shared by a short UR
 
 ## Experiments
 
+### Chapter 2
+
 [Experiment 1. Generating Sounds](https://makecode.microbit.org/_eerYohUaWVqp)
 
 There is no block code for Experiment 2
 
+
+### Chapter 3
+
 [Experiment 3. Sensing Light](https://makecode.microbit.org/_WzAc3vfXcKg1) 
+
+
+### Chapter 4
 
 [Experiment 4. Magnetic Fields](https://makecode.microbit.org/_5HhbF218K6j8) 
 
 [Link for Google Sheet spreadsheet for Experiment 4)(https://docs.google.com/spreadsheets/d/1qSybk116Zv5qyFtHL0l5jVkicrFcodrefVTEGUbmIYk/edit?usp=sharing)
 
 
+### Chapter 5
+
 [Experiment 5. Gestures](https://makecode.microbit.org/_hX3Cx5AFm2X7)
 
 There is no block code for Experiments 6 and 7
 
+
+### Chapter 6
+
 [Experiment 8. Servomotors](https://makecode.microbit.org/_RsRRuvUH89kL)
+
+There is no block code for experiments 7 to 12.
+
+
+### Chapter 10
 
 [Experiment 13. Radio Range](https://makecode.microbit.org/_ED6Rw8KL8hro)
 
 
-There is no block code for Experiment 9
 
 
 ## Cloning and Downloading 
