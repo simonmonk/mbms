@@ -16,34 +16,45 @@ All the Block code is published on the makecode website and shared by a short UR
 
 
 ### Chapter 3
-[Project 3. Night Light](https://makecode.microbit.org/_Tf4E9w3xb0sU)
+[Night Light](https://makecode.microbit.org/_Tf4E9w3xb0sU)
 
-[Project 4. Light Guitar](https://makecode.microbit.org/_HxdFekC57XkA)
+[Light Guitar](https://makecode.microbit.org/_HxdFekC57XkA)
 
-[Project 5. Magic Mirror](https://makecode.microbit.org/_ERbTiwTzY0zu)
+[Magic Mirror](https://makecode.microbit.org/_ERbTiwTzY0zu)
 
 
 ### Chapter 4
 
-[Project 6. Compass](https://makecode.microbit.org/_YKE4j3io9Wxu)
+[Compass](https://makecode.microbit.org/_YKE4j3io9Wxu)
 
-[Project 7. Magnetic Alarm](https://makecode.microbit.org/_Fab659PCW4VL)
-
-[Project 8. Toothbrush Monitor](https://makecode.microbit.org/_Dh7VJw3Hz1Wx)
+[Magnetic Alarm](https://makecode.microbit.org/_Fab659PCW4VL)
 
 
+### Chapter 5
+
+[Toothbrush Monitor](https://makecode.microbit.org/_Dh7VJw3Hz1Wx)
+
+[Acceleration Display](https://makecode.microbit.org/_Vu8cdtPzpbrq)
+
+### Chapter 6 and 7 don't have any Blocks code
+
+### Chapter 8
+
+[Lie Detector](https://makecode.microbit.org/_htdLYViYw2mb)
 
 
-[Project 9. Acceleration Display](https://makecode.microbit.org/_Vu8cdtPzpbrq)
+### Chapter 9
 
-[Chapter 8. Lie Detector](https://makecode.microbit.org/_htdLYViYw2mb)
+[Plant Waterer](https://makecode.microbit.org/_VrVemL7Kx2FP)
 
-[Chapter 9. Plant Waterer](https://makecode.microbit.org/_VrVemL7Kx2FP)
 
-[Project 17. Wireless Doorbell](https://makecode.microbit.org/_h1AH7agkv2Fw)
+### Chapter 10
 
-[Project 18. Rover](https://makecode.microbit.org/_FTPcwRg3CPjV)
-[Project 18. Rover Controller](https://makecode.microbit.org/_L69HYaPvU53t)
+[Wireless Doorbell](https://makecode.microbit.org/_h1AH7agkv2Fw)
+
+[Rover](https://makecode.microbit.org/_FTPcwRg3CPjV)
+
+[Rover Controller](https://makecode.microbit.org/_L69HYaPvU53t)
 
 
 
@@ -84,6 +95,6 @@ Find the ZIP file (mbms-master.zip) in your downloads area and then extract all 
 Unfortunately Mu is not associated with the file type of .py, so to make it super easy to find the programs for the book when using Mu, I suggest that you copy all the MicroPython programs from the download into the directory where Mu normally expects to find its programs. By default this is a directory called mu_code within your home directory.
 
 
-## JavaScript
+## Other Downloads
 
-You may also have noticed that there is a directory here called 'javascript'. This directory contains the JavaScript programs that the makecode website generates automatically from your Block code. You should not need to use this, but it is there for completeness.
+You may also have noticed that there is a directory here called 'other downloads'. This directory contains other files for projects, such as drawing templates.
