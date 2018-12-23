@@ -18,7 +18,8 @@ def run_full_test():
     print("Transmission speed (m/s): " + str(transmission_speed))
 
 def run_test():
-    print("Hold the switch down while cross is showing and release momentarily when the display blanks")
+    print("Hold the switch down while cross is showing.")
+    print("Release momentarily when the display blanks.")
     print("Repeat " + str(n) + " times.")
     input("Press ENTER when ready to start the test")
     total = 0
