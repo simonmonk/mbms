@@ -2,6 +2,7 @@ from microbit import *
 import radio, music
 
 radio.on()
+radio.config(power=7, group=1)
 
 def send_message(message):
     radio.send(message)
@@ -17,5 +18,5 @@ while True:
     message = radio.receive()
     if message == 'db1':
         music.play(music.ENTERTAINER)
-    if message == 'db2':
+    elif message == 'db2':
         music.play(music.FUNERAL)

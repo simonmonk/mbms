@@ -2,7 +2,7 @@ from microbit import *
 import radio
 
 radio.on()
-radio.config(power=7)
+radio.config(power=7, group=1)
 
 while True:
     if button_a.was_pressed():

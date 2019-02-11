@@ -50,7 +50,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 ### Chapter 10
 
-[Wireless Doorbell](https://makecode.microbit.org/_h1AH7agkv2Fw)
+[Wireless Doorbell](https://makecode.microbit.org/_hvLdHC5TqbXa)
 
 [Rover](https://makecode.microbit.org/_FTPcwRg3CPjV)
 
@@ -95,7 +95,7 @@ There is no block code for experiments 7 to 12.
 
 ### Chapter 10
 
-[Experiment 13. Radio Range](https://makecode.microbit.org/_ED6Rw8KL8hro)
+[Experiment 12. Radio Range](https://makecode.microbit.org/_DJFddiLyVHLq)
 
 
 
