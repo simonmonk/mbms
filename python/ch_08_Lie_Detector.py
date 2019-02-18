@@ -1,5 +1,6 @@
 from microbit import *
 
+pin2.set_pull(pin2.PULL_UP)
 baseline = pin2.read_analog()
 
 while True:
