@@ -37,7 +37,7 @@ def get_reaction_time():
     sleep(random.randint(3000, 7000))
     display.clear()
     t0 = running_time()
-    while button_a.is_pressed():
+    while pin5.read_digital() == False:   # Button A down
         pass
     t1 = running_time()
     t = t1 - t0

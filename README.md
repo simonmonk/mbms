@@ -40,7 +40,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 ### Chapter 8
 
-[Lie Detector](https://makecode.microbit.org/_htdLYViYw2mb)
+[Lie Detector](https://makecode.microbit.org/_aM8WTLcEJ6qe)
 
 
 ### Chapter 9
