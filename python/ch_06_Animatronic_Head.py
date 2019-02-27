@@ -62,6 +62,5 @@ while True:
         act()
     if random.randint(0, 1000) == 0: # say something 1 time in 1000
         act()
-        reset() # The speech lib crashes (memory leaks?)- make this much less likely
     sleep(200)
     
