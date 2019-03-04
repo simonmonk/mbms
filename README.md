@@ -16,11 +16,11 @@ All the Block code is published on the makecode website and shared by a short UR
 
 
 ### Chapter 3
-[Night Light](https://makecode.microbit.org/_Tf4E9w3xb0sU)
+[Automatic Night Light](https://makecode.microbit.org/_9xwYd25hfVr7)
 
-[Light Guitar](https://makecode.microbit.org/_HxdFekC57XkA)
+[Light Guitar](https://makecode.microbit.org/_b0UHfudwXK3e)
 
-[Magic Mirror](https://makecode.microbit.org/_ERbTiwTzY0zu)
+[Magic Mirror](https://makecode.microbit.org/_iDwD6ccdRe2x) 
 
 
 ### Chapter 4
