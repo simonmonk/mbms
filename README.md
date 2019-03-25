@@ -9,7 +9,7 @@ All the Block code is published on the makecode website and shared by a short UR
 ## Projects
 
 ### Chapter 2
-[Musical Door Bell](https://makecode.microbit.org/_bo6T1f286Kos)
+[Musical Door Bell](https://makecode.microbit.org/_Rb6MsFdrUP92)
 
 [Shout-o-meter](https://makecode.microbit.org/_0drcfrM7kUE6)
 
@@ -62,7 +62,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 ### Chapter 2
 
-[Experiment 1. Generating Sounds](https://makecode.microbit.org/_eerYohUaWVqp)
+[Experiment 1. Generating Sounds](https://makecode.microbit.org/_dk75wcLE263E)
 
 There is no block code for Experiment 2
 
