@@ -16,7 +16,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 
 ### Chapter 3
-[Automatic Night Light](https://makecode.microbit.org/_9xwYd25hfVr7)
+[Automatic Night-Light](https://makecode.microbit.org/_9xwYd25hfVr7)
 
 [Light Guitar](https://makecode.microbit.org/_b0UHfudwXK3e)
 
