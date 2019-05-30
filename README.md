@@ -32,7 +32,7 @@ All the Block code is published on the makecode website and shared by a short UR
 
 ### Chapter 5
 
-[Toothbrush Monitor](https://makecode.microbit.org/_Dh7VJw3Hz1Wx)
+[Toothbrushing Monitor](https://makecode.microbit.org/_Dh7VJw3Hz1Wx)
 
 [Acceleration Display](https://makecode.microbit.org/_Vu8cdtPzpbrq)
 
