@@ -11,7 +11,7 @@ All the Block code is published on the makecode website and shared by a short UR
 ### Chapter 2
 [Musical Doorbell](https://makecode.microbit.org/_Rb6MsFdrUP92)
 
-[Shout-o-meter](https://makecode.microbit.org/_0drcfrM7kUE6)
+[Shout-O-Meter](https://makecode.microbit.org/_0drcfrM7kUE6)
 
 
 
