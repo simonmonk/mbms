@@ -1,4 +1,5 @@
 from microbit import *
+import radio
 
 busy = False
 last_busy_flip = 0
